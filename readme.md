@@ -26,8 +26,8 @@
 const auto_usate = [ 
     {
         id_auto : 1,
-        marca : "Fiat"
-        modello: "Punto"
+        marca : "Fiat",
+        modello: "Punto",
         //...
     }
 ]
